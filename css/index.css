@@ -14,9 +14,28 @@ body{
     justify-content: center;
 }
 #jobexp{
-    max-width: 400px;
+    width: 400px;
     margin: 20px auto 50px auto;
 }
 #summary{
     margin: 20px auto 50px auto;
+    display: flex;
+}
+#skillek{
+    background-color: white;
+    margin-bottom: 50px;
+}
+#pro{
+    color: white;
+    text-align: center;
+}
+#contact{
+    width: 1500px;
+    text-align: center;
+    display: block;
+    margin: 50px auto auto;
+    font-size: 20px;
+}
+#ul1{
+    border-radius: 10px;
 }
