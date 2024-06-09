@@ -41,6 +41,7 @@ body{
 }
 #kep1{
     width: 300px;
+    height: auto;
     border-radius: 10px;
     position: absolute;
     right: 270px;
